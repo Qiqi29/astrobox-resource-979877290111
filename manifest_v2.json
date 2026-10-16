@@ -1,0 +1,54 @@
+{
+  "item": {
+    "id": "979877290111",
+    "restype": "watchface",
+    "name": "图文模块Pro",
+    "description": "“小米手环上顶级的 A Watch 表盘”\n始于2022年，首个版本登录小米手环6。你所看到的每一个像素，都来自 A Watch。充分利用手环的屏幕比例，搭配出属于你的表盘。\n\n组件自定义  /  50+ 高质量组件自由切换。\n模块化容器  /  6 个可自定义容器，可搭配出高达上百万种布局。\n时间个性化  /  运动、艺术、圆润、指针、刻度，5 种不同风格的时间显示。\n李逵的玻璃  /  根据手环优化的液态玻璃设计风格。\n\n抬起手腕，感受满屏的细节。",
+    "preview": [
+      "media/宣传图 900x1200.png",
+      "media/宣传图 900x1200（1）.png",
+      "media/宣传图 900x1200（2）.png",
+      "media/宣传图 900x1200（3）.png"
+    ],
+    "icon": "media/图标 300w.png",
+    "cover": "media/封面图 900x600.png",
+    "author": [
+      {
+        "name": "theqiqi",
+        "bindABAccount": true
+      }
+    ]
+  },
+  "links": [
+    {
+      "title": "查看我的更多表盘",
+      "url": "https://wzyp.cn/shop/MO75RD9U",
+      "icon": "shopping-cart"
+    }
+  ],
+  "downloads": {
+    "xmb10": {
+      "version": "2.0.0",
+      "file_name": "downloads/图文模块Pro_米环10_2.0.0.bin",
+      "versionCode": 131072
+    },
+    "xmb10nfc": {
+      "version": "2.0.0",
+      "file_name": "downloads/图文模块Pro_米环10_2.0.0.bin",
+      "versionCode": 131072
+    },
+    "xmb11": {
+      "version": "2.0.0",
+      "file_name": "downloads/图文模块Pro_米环11_2.0.0.bin",
+      "versionCode": 131072
+    },
+    "xmb11nfc": {
+      "version": "2.0.0",
+      "file_name": "downloads/图文模块Pro_米环11_2.0.0.bin",
+      "versionCode": 131072
+    }
+  },
+  "ext": {
+    "enableAstroBoxCreatorFeatures": true
+  }
+}
